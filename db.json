@@ -1,0 +1,53 @@
+{
+  "todos": [
+    {
+      "name": "aefe",
+      "id": 4
+    },
+    {
+      "name": "gwrhtdd",
+      "id": 5
+    },
+    {
+      "name": "jnj",
+      "id": 6
+    },
+    {
+      "name": "vadv",
+      "id": 7
+    },
+    {
+      "name": "segseb",
+      "id": 8
+    },
+    {
+      "name": "m,pom",
+      "id": 9
+    },
+    {
+      "name": "fesaf",
+      "id": 10
+    },
+    {
+      "name": "csdv",
+      "id": 11
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
