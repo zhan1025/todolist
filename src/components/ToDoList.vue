@@ -56,7 +56,7 @@ export default {
           console.log('删除成功')
           this.todos.splice(index, 1)
         })
-        .catch(err =>{
+        .catch(err => {
           alert('删除失败')
         })
     }
@@ -78,13 +78,4 @@ export default {
 }
 </script>
 <style lang="less" scoped>
-  li{
-    width: 240px;
-    position: relative;
-    button{
-        position: absolute;
-        right: 0;
-      }
-  }
-
 </style>

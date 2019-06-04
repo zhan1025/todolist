@@ -18,4 +18,13 @@ export default {
   }
 }
 </script>
-
+<style lang="scss" scoped>
+  li{
+      width: 240px;
+      position: relative;
+      button {
+          position: absolute;
+          right: 0;
+        }
+    }
+</style>
